@@ -14,4 +14,4 @@ jobs:
       env:
         EMAIL: arnaud@ligny.org
         GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BUILD_DIR: _site
+        

@@ -1,12 +1,8 @@
 {
-  "homepage": "https://piokl.github.io/Countries-API/",
   "name": "tiny-helpers",
   "version": "1.0.0",
   "description": "A collection of free single-purpose online tools for web developers...",
-  "private": true,
-  "dependencies": {
-    "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.1",
+  "main": "index.js",
   "scripts": {
     "setup:screenshots": "node ./scripts/create-screenshots.js",
     "setup:feeds": "node ./scripts/create-feeds.js",
